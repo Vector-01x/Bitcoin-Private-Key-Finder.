@@ -44,3 +44,12 @@ For a complete walkthrough of how to use this tool, watch the tutorial below:
 -   The tool works **offline** for key recovery, ensuring **security** and **privacy**. The **internet** is used only for sending **Discord notifications** if enabled.
 -   Ensure you are using a valid public Bitcoin address and that the missing key segments are properly marked with **`?`**.
 
+
+The Bitcoin private key recovery tool can be run on **Termux**, a Linux emulator for Android devices. However, you should exercise caution when using it if a large number of segments are missing, as the key recovery process may take a long time in such cases.
+
+The more powerful the device, the faster the search process will be. This means that stronger devices will be able to complete the operation more quickly. However, if a large number of segments are missing, such as 13 or more, the search will take a longer time to complete.
+
+I do not recommend searching for images online that show 13 missing segments, especially if their authenticity has not been verified thoroughly. In some cases, these images may be misleading or inaccurate. Always ensure the data’s validity before attempting recovery, and avoid proceeding with such searches without prior verification.
+
+**Use the tool at your own risk.** ⚠️
+
